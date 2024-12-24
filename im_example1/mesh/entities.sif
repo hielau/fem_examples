@@ -1,0 +1,106 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = StCore
+End
+
+Body 2
+  Name = AirgapSt
+End
+
+Body 3
+  Name = Air
+End
+
+Body 4
+  Name = U_pos
+End
+
+Body 5
+  Name = W_neg
+End
+
+Body 6
+  Name = V_pos
+End
+
+Body 7
+  Name = Bar5
+End
+
+Body 8
+  Name = Bar6
+End
+
+Body 9
+  Name = Bar7
+End
+
+Body 10
+  Name = Bar8
+End
+
+Body 11
+  Name = Bar9
+End
+
+Body 12
+  Name = Bar10
+End
+
+Body 13
+  Name = Shaft
+End
+
+Body 14
+  Name = Bar1
+End
+
+Body 15
+  Name = Bar2
+End
+
+Body 16
+  Name = Bar3
+End
+
+Body 17
+  Name = Bar4
+End
+
+Body 18
+  Name = AirgapRt
+End
+
+Body 19
+  Name = RtCore
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = bcStOut
+End
+
+Boundary Condition 2
+  Name = bcSlideSt
+End
+
+Boundary Condition 3
+  Name = bcSt1
+End
+
+Boundary Condition 4
+  Name = bcSt2
+End
+
+Boundary Condition 5
+  Name = bcRt1
+End
+
+Boundary Condition 6
+  Name = bcSlideRt
+End
+
+Boundary Condition 7
+  Name = bcRt2
+End
+
